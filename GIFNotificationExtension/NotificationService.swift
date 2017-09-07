@@ -1,10 +1,6 @@
-//
+
 //  NotificationService.swift
 //  GIFNotificationExtension
-//
-//  Created by webonise on 01/09/17.
-//  Copyright © 2017 Pranjal Satija. All rights reserved.
-//
 
 import UserNotifications
 
